@@ -1,0 +1,46 @@
+/* Header.css */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav li a, .logout-button {
+    text-decoration: none;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .nav li a:hover, .logout-button:hover {
+    text-decoration: underline;
+    background-color: #0056b3;
+  }
+  
+  .navbar-nav .nav-item .nav-link.btn:hover {
+    color: #000; 
+    background-color: #fff; 
+  }
+
+.logo-img {
+  height: 40px; /* Adjust the height as needed */
+  width: 15;
+}

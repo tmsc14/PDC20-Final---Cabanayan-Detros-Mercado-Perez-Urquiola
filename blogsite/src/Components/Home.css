@@ -1,0 +1,30 @@
+/* Home.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cover-image {
+    position: relative;
+    height: 200px;
+    background: url('https://cdn.discordapp.com/attachments/952166523831742494/1185939626859450539/image.png?ex=65916f58&is=657efa58&hm=820b0bc469457c2507b1303dfae228bdebc6862ec03192048f8df96bada81fd5&') center/cover no-repeat;
+  }
+  
+  
+  .cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .cover-text h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .cover-text p {
+    font-size: 1.2em;
+  }
+  
