@@ -7,27 +7,22 @@ const About = () => {
     {
       name: 'Edlan Perez',
       image: 'https://cdn.discordapp.com/attachments/952166523831742494/1185919674957971486/Edlan.jpg?ex=65915cc3&is=657ee7c3&hm=7c96e383c203a357cc21bb4ca61acb4f7d265c5cfdba08484e828ad2ed2b645a&',
-      text: 'Contribution: Documentation',
     },
     {
       name: 'Jio Detros',
       image: 'https://cdn.discordapp.com/attachments/952166523831742494/1185919674123304980/Jio.jpg?ex=65915cc3&is=657ee7c3&hm=c6b2c41d7077eeabb39e380a0f103b6535328e53b3cedb83f0ab093da3abf3f4&',
-      text: 'Backend and Documentation',
     },
     {
       name: 'John Hendrick Urquiola',
       image: 'https://cdn.discordapp.com/attachments/952166523831742494/1185919674534342757/Hendrick.png?ex=65915cc3&is=657ee7c3&hm=9a293ff717c11f13aacc22f904bef9a19c973700f0558285caf44585358bb315&',
-      text: 'Contribution: Documentation',
     },
     {
       name: 'Teree Cabanayan',
-      image: 'https://cdn.discordapp.com/attachments/952166523831742494/1185923843311816784/308727846_2915494091927877_4828211873547160614_n.png?ex=659160a5&is=657eeba5&hm=929f1c3ab20fd414dbc741daa6485502d1a2c02ab8d41ea9aac617939be13644&',
-      text: 'Front-end design',
+      image: 'https://cdn.discordapp.com/attachments/952166523831742494/1186644299815845898/A0C0FF52-6D90-4083-B409-96496A6690CE.jpg?ex=6593ff9f&is=65818a9f&hm=cb2f0ef550aad07bdfb6ed25e5c05c47fc4f3dbd0e495f07d75a9b6a4e7ee45e&',
     },
     {
       name: 'Kaye Mercado',
-      image: 'https://cdn.discordapp.com/attachments/952166523831742494/1185923842703630366/264605508_5208819192480701_4377748910378600105_n.png?ex=659160a5&is=657eeba5&hm=1fb0074ea3ed2f4867cbd0f554a1635a93ffe2a6dde67287a1bcabdae7c2cd55&',
-      text: 'Contribution: Documentation and Design',
+      image: 'https://cdn.discordapp.com/attachments/952166523831742494/1186643163268522024/7E66EF38-0BB7-42FD-9A63-D358B5426927.jpg?ex=6593fe90&is=65818990&hm=56494edf16021777e12dc19c1a24a349e516d5459afc619378b31113bf3a81bb&',
     },
   ];
 
@@ -76,24 +71,25 @@ const About = () => {
 
         {/* Section about Bootstrap and React.js */}
         <div className="about-bootstrap-react mt-5">
-          <h2>About Bootstrap and React.js</h2>
+          <h2>About Lens Symphony 📸</h2>
           <p>
-            Bootstrap is a versatile front-end framework that streamlines the process of creating
-            responsive and visually appealing web applications. It offers a rich set of pre-designed
-            components and styles, facilitating rapid development and ensuring a consistent user
-            interface.
+          Lens Symphony is a captivating blogsite that orchestrates a visual symphony through the 
+          art of photography. Immerse yourself in a world where each post is a unique composition, 
+          capturing the essence of moments, emotions, and the beauty that surrounds us. From the 
+          delicate play of light to the vibrant colors of nature, Lens Symphony invites you to 
+          explore diverse perspectives through a lens. 🌈✨
           </p>
           <p>
-            React.js, developed and maintained by Facebook, is a powerful JavaScript library for
-            building interactive and reusable user interfaces. Its component-based architecture and
-            virtual DOM make it an excellent choice for developing modern single-page applications
-            with efficient UI updates and state management.
+          Dive into the eloquent narratives accompanying each image, as the blogsite weaves stories 
+          that resonate with the visual melodies captured by the lens. Whether it's the hustle and 
+          bustle of urban life or the serene landscapes, Lens Symphony aims to evoke emotions and 
+          spark contemplation. 🏙️🍃
           </p>
           <p>
-            Combining Bootstrap with React.js allows developers to leverage the best of both worlds.
-            Bootstrap provides ready-made styles and components, while React enables a declarative
-            approach to UI development and efficient state management, resulting in a compelling and
-            visually appealing web application.
+          Join the community of fellow enthusiasts who appreciate the poetry of visuals and the 
+          stories they tell. Lens Symphony is not just a blogsite; it's a celebration of the 
+          artistry that unfolds when creativity meets the lens, creating a symphony that 
+          resonates with the soul. 🌟
           </p>
         </div>
       </div>
